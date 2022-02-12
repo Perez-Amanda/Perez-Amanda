@@ -1,4 +1,4 @@
-# Amanda de M. Perez 
+# ✨ Amanda de M. Perez ✨
 
 ### Hello, welcome to my Github profile 👋
 
