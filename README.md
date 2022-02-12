@@ -1,4 +1,9 @@
-### Hi there 👋
+# Amanda Perez
+
+### Hello, welcome to my Github profile 👋
+
+I'm a 19-year-old Data Science student at Fundação Getulio Vargas, in Brazil. I'm still beginner at programming, but I'm currently learning Python, C++, SQL and a little bit of R.
+
 
 <!--
 **Perez-Amanda/Perez-Amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
