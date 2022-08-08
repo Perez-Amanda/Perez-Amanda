@@ -3,14 +3,14 @@
 ### Hello, welcome to my Github profile 👋
 
 - I'm a 20-year-old Data Science and AI student at FGV's School of Applied Mathematics, in Brazil. 
-- I'm still beginner at programming, but I'm currently learning Python, C++, SQL and a little bit of R.
+- Currently learning more about Python, C++, SQL and a little bit of R.
 
 ---
 
 ### Oi, seja bem-vindo(a) ao meu perfil no Github 👋
 
 - Eu tenho 20 anos e sou uma estudante de Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da Fundação Getulio Vargas, no Brasil.
-- Ainda sou iniciante em programação, mas estou atualmente aprendendo Python, C++, SQL e um pouquinho de R.
+- Atualmente aprendendo mais sobre Python, C++, SQL e um pouquinho de R.
 
 <br>
 <!--
