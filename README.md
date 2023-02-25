@@ -2,24 +2,24 @@
 
 ### Hello, welcome to my Github profile 👋
 
-- I'm a 20-year-old Data Science and AI student at FGV's School of Applied Mathematics, in Brazil. 
-- Currently learning more about Python, C++, SQL and a little bit of R.
+- I'm a 20-year-old Data Science and Applied Mathematics student at FGV's School of Applied Mathematics ([FGV/EMAp](https://emap.fgv.br/)), in Brazil. 
+- Currently learning more about Python, Scilab, C++, SQL and a little bit of R.
 
 ---
 
 ### Oi, seja bem-vindo(a) ao meu perfil no Github 👋
 
-- Eu tenho 20 anos e sou uma estudante de Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da Fundação Getulio Vargas, no Brasil.
-- Atualmente aprendendo mais sobre Python, C++, SQL e um pouquinho de R.
+- Eu tenho 20 anos e sou uma estudante de Ciência de Dados e de Matemática Aplicada na Escola de Matemática Aplicada da Fundação Getulio Vargas ([FGV/EMAp](https://emap.fgv.br/)), no Brasil.
+- Atualmente aprendendo mais sobre Python, Scilab, C++, SQL e um pouquinho de R.
 
-<br>
-<!--
+---
+
 <div>
 <a href="https://github.com/Perez-Amanda">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perez-Amanda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Perez-Amanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perez-Amanda&langs_count=7&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Perez-Amanda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
--->
+
 
 <!--
 **Perez-Amanda/Perez-Amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
