@@ -2,14 +2,14 @@
 
 ### Hello, welcome to my Github profile 👋
 
-- I'm a 20-year-old Data Science and Applied Mathematics student at FGV's School of Applied Mathematics ([FGV/EMAp](https://emap.fgv.br/)), in Brazil. 
+- I'm a 21-year-old Data Science and Applied Mathematics student at FGV's School of Applied Mathematics ([FGV/EMAp](https://emap.fgv.br/)), in Brazil. 
 - Currently learning more about Python, Scilab, C++, SQL and a little bit of R.
 
 ---
 
 ### Oi, seja bem-vindo(a) ao meu perfil no Github 👋
 
-- Eu tenho 20 anos e sou uma estudante de Ciência de Dados e de Matemática Aplicada na Escola de Matemática Aplicada da Fundação Getulio Vargas ([FGV/EMAp](https://emap.fgv.br/)), no Brasil.
+- Eu tenho 21 anos e sou uma estudante de Ciência de Dados e de Matemática Aplicada na Escola de Matemática Aplicada da Fundação Getulio Vargas ([FGV/EMAp](https://emap.fgv.br/)), no Brasil.
 - Atualmente aprendendo mais sobre Python, Scilab, C++, SQL e um pouquinho de R.
 
 ---
