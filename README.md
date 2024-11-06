@@ -4,7 +4,7 @@
 
 - I'm a 22-year-old Data Science student at FGV's School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)), in Brazil.
 - Interested in Probability, Statitics and Machine Learning.
-- Currently learning more about Python, Scilab, C++ and a little bit of R e Javascript.
+- Currently learning more about Python, Scilab, C++ and a little bit of R and Javascript.
 
 ---
 
