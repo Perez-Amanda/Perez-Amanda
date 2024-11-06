@@ -14,7 +14,6 @@
 - Tenho interesse nas áreas de Probabilidade, Estatística e Aprendizado de Máquinas.
 - Atualmente aprendendo mais sobre Python, Scilab, C++ e um pouquinho de R e Javascript.
 
----
 
 <!--
 <div>
