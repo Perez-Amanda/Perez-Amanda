@@ -1,19 +1,20 @@
 # ✨ Amanda de Mendonça Perez ✨
 
-### Hello, welcome to my Github profile 👋
+<!--### Hello, welcome to my Github profile 👋-->
+### Who am I?
 
-- I'm a 22-year-old Data Science student at FGV's School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)), in Brazil.
-- Interested in Probability, Statistics and Machine Learning.
-- Currently learning more about Python, Scilab, C++ and a little bit of R and Javascript.
+- Data scientist and aspiring applied mathematician 💻
+- Master's student at FGV's School of Applied Mathematics ([FGV EMAp](https://emap.fgv.br/)), in Brazil 🧑‍🎓
+- Interested in Differential Privacy, Machine Learning and Statistics 📚
 
 ---
 
-### Oi, seja bem-vindo(a) ao meu perfil no Github 👋
+<!-- ### Oi, seja bem-vindo(a) ao meu perfil no Github 👋-->
+### Quem sou eu?
 
-- Eu tenho 22 anos e sou uma estudante de Ciência de Dados na Escola de Matemática Aplicada da Fundação Getulio Vargas ([FGV EMAp](https://emap.fgv.br/)), no Brasil.
-- Tenho interesse nas áreas de Probabilidade, Estatística e Aprendizado de Máquinas.
-- Atualmente aprendendo mais sobre Python, Scilab, C++ e um pouquinho de R e Javascript.
-
+- Cientista de dados e aspirante a matemática 💻
+- Mestranda na Escola de Matemática Aplicada da FGV ([FGV EMAp](https://emap.fgv.br/)) 🧑‍🎓
+- Interessada em Privacidade Diferencial, Aprendizado de Máquinas e Estatística 📚
 
 <!--
 <div>
